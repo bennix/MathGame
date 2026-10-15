@@ -64,5 +64,6 @@
       "icon": "build/icon.png",
       "category": "Game"
     }
-  }
+  },
+  "license": "GPL-3.0-only"
 }
